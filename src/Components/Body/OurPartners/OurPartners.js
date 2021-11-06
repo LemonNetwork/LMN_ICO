@@ -42,15 +42,8 @@ const OurPartners = () => {
               <img src={PartnerC} alt="partner" />
             </a>
           </li>
-          {/* <li
-            className="partner-logo-s3 animated"
-            data-animate="fadeInUp"
-            data-delay=".25"
-            style={{ marginRight: "0" }}
-          >
-            <img src={PartnerD} alt="partner" />
-          </li> */}
-          {/* <li
+        
+          <li
             className="partner-logo-s3 animated"
             data-animate="fadeInUp"
             data-delay=".35"
@@ -59,7 +52,7 @@ const OurPartners = () => {
             <a href="https://scandefi.net/" target="_blank">
               <img src={PartnerE} alt="partner" />
             </a>
-          </li> */}
+          </li> 
           <li
             className="partner-logo-s3 animated"
             data-animate="fadeInUp"
@@ -70,16 +63,6 @@ const OurPartners = () => {
               <img src={PartnerB} alt="partner" />
             </a>
           </li>
-
-          {/* <li
-            className="partner-logo-s3 animated"
-            data-animate="fadeInUp"
-            data-delay=".4"
-            style={{marginRight:"0"}}
-
-          >
-            <img src={PartnerE} alt="partner" />
-          </li> */}
         </ul>
       </div>
     </div>
